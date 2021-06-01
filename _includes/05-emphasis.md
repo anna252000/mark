@@ -1,1 +1,3 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+*i love sports*
+**i love to play outdoor games**
+_i am intrested in **physical activities**_
